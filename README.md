@@ -1,4 +1,4 @@
-# stepin-Guessing-Game
+# PREDICTING-GAME
 ![Screenshot (235)](https://user-images.githubusercontent.com/89648206/132439595-0f7f42ea-6186-49d3-9848-116cf3378953.png)
 ## Folder Structure
 Folder                   | Description
@@ -13,6 +13,6 @@ Folder                   | Description
 
 [![Code Quality](https://www.code-inspector.com/project/28121/score/svg)](https://www.code-inspector.com)
 [![Code grade](https://www.code-inspector.com/project/28121/status/svg)](https://www.code-inspector.com)
-[![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml)
-[![CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/main.yml)
-[![Static Code Analysis](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/static.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/static.yml)
+[![C/C++ CI](https://github.com/nalamkarthik/M1_PREDICTING-GAME/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nalamkarthik/M1_PREDICTING-game/actions/workflows/c-cpp.yml)
+[![CI](https://github.com/nalamkarthik/M1_PREDICTING-GAME/actions/workflows/main.yml/badge.svg)](https://github.com/nalamkarthik/M1_PREDICTING-GAME/actions/workflows/main.yml)
+[![Static Code Analysis](https://github.com/nalamkarthik/M1_PREDICTING-GAME/actions/workflows/static.yml/badge.svg)](https://github.com/nalamkarthik/M1_PREDICTING-GAME/actions/workflows/static.yml)
